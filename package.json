@@ -1,0 +1,13 @@
+{
+  "name": "farmconnect-root",
+  "version": "1.0.0",
+  "description": "Root orchestration for FarmConnect Full Stack Project",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "start:all": "npx concurrently \"npm start --prefix server\" \"npm run dev --prefix client\"",
+    "setup": "npm run install:all"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
