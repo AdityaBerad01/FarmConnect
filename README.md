@@ -1,4 +1,13 @@
-# 🌾 FarmConnect — Farm to Table, Direct & Fresh
+<img width="1920" height="1080" alt="Screenshot 2026-04-19 095857" src="https://github.com/user-attachments/assets/2752c71c-dd8c-497d-beb5-02d84fdf19e8" /># 🌾 FarmConnect — Farm to Table, Direct & Fresh
+🌐 Live Demo
+https://farmtobuyer.netlify.app/
+
+📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-19 090900" src="https://github.com/user-attachments/assets/0654cf48-3a42-4aa1-a514-fd1b4c1767be" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-19 091216" src="https://github.com/user-attachments/assets/4a590f55-9ce0-4af0-bf46-9ea788ca208a" />
+
 
 A full-stack web application that connects farmers directly with buyers, enabling crop listing, ordering, real-time messaging, and transparent agricultural commerce.
 
